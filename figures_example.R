@@ -1,3 +1,5 @@
+# This script generates some example figures for a 2-dimensional test case
+
 rm(list=ls()); graphics.off(); cat("\014")
 
 source("core.R")

@@ -1,3 +1,6 @@
+# This file is used to compute the performance metrics reported in the paper.
+# User has to specify the path to the folders with the results of both the JKO and cJKO.
+
 rm(list=ls()); graphics.off(); cat("\014")
 
 source("core.R")
